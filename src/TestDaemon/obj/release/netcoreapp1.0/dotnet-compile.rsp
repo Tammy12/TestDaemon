@@ -88,4 +88,5 @@
 --reference:C:\Users\u755966\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\u755966\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
 C:\Users\u755966\GitHub\TestDaemon\src\TestDaemon\Program.cs
+C:\Users\u755966\GitHub\TestDaemon\src\TestDaemon\ExceptionHandling\LoopCountTooHighException.cs
 C:\Users\u755966\GitHub\TestDaemon\src\TestDaemon\Properties\AssemblyInfo.cs
